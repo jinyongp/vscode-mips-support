@@ -13,6 +13,19 @@ The extension is based on Textmate's [MIPS bundle](https://github.com/textmate/m
 
 ## Release Notes
 
+### 0.1.1
+
+* Add `exit` and `allocate` syscalls
+* Adjust prefixes for `print` snippets
+
+### 0.1.0
+
+* `print` snippet fixes
+
+### 0.0.9
+
+* Add snippets for `xor`, `xori`, `slt`, and `slti`
+
 ### 0.0.8
 
 * Add snippets for `and`, `andi`, `nor`, `or`, `ori`, `sll`, and `srl`
